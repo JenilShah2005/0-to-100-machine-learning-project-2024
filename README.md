@@ -2,3 +2,7 @@
 
 #The collab file link:
 #https://colab.research.google.com/drive/1e3z0SM4CuQZ6vebSP5vG9RBTBpJsWiqx#scrollTo=WynpNM5bUS_Z
+
+
+#The collab file link of week 2:
+#https://colab.research.google.com/drive/1i-90J9tSQESgqaX0RKsaygxcco9vRm0M?usp=sharing
